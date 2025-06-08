@@ -585,8 +585,8 @@ def main():
     """Example usage of the PodcastSummarizer with Groq"""
     
     # Initialize with your API keys
-    ASSEMBLYAI_KEY = "df039e01bbdc46b99131cd42852b2d1a"  # Your AssemblyAI key
-    GROQ_KEY = "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"  # Replace with your Groq API key
+    ASSEMBLYAI_KEY = ""  # Your AssemblyAI key
+    GROQ_KEY = ""  # Replace with your Groq API key
     
     summarizer = PodcastSummarizer(ASSEMBLYAI_KEY, GROQ_KEY)
     
