@@ -208,7 +208,6 @@ scikit-learn==1.7.0
 scipy==1.15.3
 seaborn==0.13.2
 semver==3.0.4
-sentencepiece==0.2.0
 setuptools==80.9.0
 shellingham==1.5.4
 six==1.17.0
